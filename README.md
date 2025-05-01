@@ -36,6 +36,7 @@ The dataset (`heart.csv`) contains patient-level medical data used to predict th
 
 Make sure to install the following:
 
- -pip install graphviz
+ -pip install graphviz 
+ 
  -apt-get install -y graphviz
 
